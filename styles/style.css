@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
+  zoom: 95%;
 }
 
 :root {
@@ -318,6 +319,18 @@ section {
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .unity {
   width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .React {
+  width: 40%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .C {
+  width: 30%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .MongoDB {
+  width: 20%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Java {
+  width: 40%;
 }
 
 .stat-title {

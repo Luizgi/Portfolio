@@ -1,8 +1,10 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     list-style: none;
+    zoom: 95%;
 }
 
 :root{
@@ -306,6 +308,11 @@
                         .py{ width: 40%; }
                         .sql{width: 40%;}
                         .unity{width: 60%;}
+                        .React{width: 40%;}
+                        .C{width: 30%;}
+                        .MongoDB{width: 20%;}
+                        .Java{width: 40%};
+
                     }
                 }
             }
